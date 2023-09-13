@@ -1,0 +1,9 @@
+[
+      { id: 1, memberName : "Jane Hopper",age: "14", thumbnail: "/images/member/Eleven.jpg" },
+      { id: 2, memberName : "Dustin Henderson", age: "14", thumbnail: "/images/member/Dustin Henderson.jpg" },
+      { id: 3, memberName : "Lucas Sinclair", age: "14", thumbnail: "/images/member/Lucas Sinclair.jpg" },
+      { id: 4, memberName : "Mike Wheeler", age: "14", thumbnail: "/images/member/Mike Wheeler.jpg" },
+      { id: 5, memberName : "Will Byers", age: "14", thumbnail: "/images/member/Will Byers.jpg" },
+      { id: 6, memberName : "Max Mayfield", age: "14", thumbnail: "/images/member/Max Mayfield.jpg" },
+      { id: 7, memberName : "Billy Hargrove", age: "18", thumbnail: "/images/member/Billy Hargrove.jpg" }
+]

@@ -1,0 +1,108 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "FirstName": "Jane",
+      "LastName": "Hopper",
+      "Username": "Eleven",
+      "Password": "jane1971",
+      "Gender": "Female",
+      "Age": "14",
+      "Phone": "0985416632",
+      "Email": "Eleven.el@gmail.com",
+      "Residence": "14/20 Byers house (California), USA",
+      "thumbnail": "/images/members/plus/Eleven.jpg"
+    },
+    {
+      "id": "2",
+      "FirstName": "Dustin",
+      "LastName": "Henderson",
+      "Username": "Dusty-Bun",
+      "Password": "dustinn324",
+      "Gender": "Male",
+      "Age": "14",
+      "Phone": "0947253122",
+      "Email": "dusty&dart@gmail.com",
+      "Residence": "14/12 Dustin house, Hawkins, Indiana, USA",
+      "thumbnail": "/images/members/plus/Dustin.jpg"
+    },
+    {
+      "id": "3",
+      "FirstName": "Lucas",
+      "LastName": "Sinclair",
+      "Username": "Lukey",
+      "Password": "Lukeyman",
+      "Gender": "Male",
+      "Age": "14",
+      "Phone": "0912058972",
+      "Email": "Lukeyman@gmail.com",
+      "Residence": "14/09 Sinclair house, Maple Street, Hawkins, Indiana, USA",
+      "thumbnail": "/images/members/plus/Lucas.jpg"
+    },
+    {
+      "id": "4",
+      "FirstName": "Mike",
+      "LastName": "Wheeler",
+      "Username": "Dungeon Master",
+      "Password": "miccy14",
+      "Gender": "Male",
+      "Age": "14",
+      "Phone": "0658125488",
+      "Email": "PaladinMike@gmail.com",
+      "Residence": "14/08 Wheeler house, Maple Street, Hawkins, Indiana, USA",
+      "thumbnail": "/images/members/plus/Mike.jpg"
+    },
+    {
+      "id": "5",
+      "FirstName": "Will",
+      "LastName": "Byers",
+      "Username": "Will the Wise",
+      "Password": "Zombie90",
+      "Gender": "Male",
+      "Age": "14",
+      "Phone": "0825149630",
+      "Email": "will@gmail.com",
+      "Residence": "14/20 Byers house (California), USA",
+      "thumbnail": "/images/members/plus/Will.jpg"
+    },
+    {
+      "id": "6",
+      "FirstName": "Max",
+      "LastName": "Mayfield",
+      "Username": "MADMAX",
+      "Password": "maxzine",
+      "Gender": "Female",
+      "Age": "14",
+      "Phone": "0654125578",
+      "Email": "Zoomer@gmail.com",
+      "Residence": "14/10 Hawkins, Indiana, USA",
+      "thumbnail": "/images/members/plus/Max.jpg"
+    },
+    {
+      "id": "7",
+      "FirstName": "Billy",
+      "LastName": "Hargrove",
+      "Username": "Billy-Lifeguard",
+      "Password": "Dirtyone18",
+      "Gender": "Male",
+      "Age": "18",
+      "Phone": "0687410054",
+      "Email": "Billy@gmail.com",
+      "Residence": "14/10 Hawkins, Indiana, USA",
+      "thumbnail": "/images/members/plus/Billy.jpg"
+    },
+    {
+      "id": "8",
+      "FirstName": "Steve",
+      "LastName": "Harrington",
+      "Username": "King Steve",
+      "Password": "DingusS",
+      "Gender": "Male",
+      "Age": "18",
+      "Phone": "0600256477",
+      "Email": "King _Steve@gmail.com",
+      "Residence": "14/31 Harrington house Hawkins, Indiana",
+      "thumbnail": "/images/members/plus/Steve.jpg"
+    }
+  ]
+}
